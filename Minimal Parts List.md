@@ -13,7 +13,7 @@ Minimum Viable Parts;) List required to explore and get proof of concept deploye
 | [20 Gauge Wire](http://geni.us/2MBYAXF) | $7.99 ||
 | [Header Wires](http://geni.us/GniKAX) | $7.86 |May have some around the house|
 | [Power Jacks](http://geni.us/7Ywdut) | $5.99 ||
-|| TOTAL COST || $86.12 || ||
+| TOTAL COST | $86.12 ||
 
 [Digital RGB Leds]: https://images-na.ssl-images-amazon.com/images/I/71ysGd1a74L._SL1100_.jpg
 [NodeMCU]: https://images-na.ssl-images-amazon.com/images/I/71efjnKymHL._SL1035_.jpg
